@@ -10,6 +10,7 @@
 img{
     vertical-align: middle;
     height: 500px;
+    width: 100%;
 }
 
 .navbar-light .navbar-nav .nav-link {
